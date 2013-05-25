@@ -1,0 +1,12 @@
+{
+    "name": "provaWallmart"
+  , "description": "Prova para WallMart"
+  , "author": "Alex Costa"
+  , "contributors": []
+  , "dependencies": {
+        "mongodb": "0.9.9-8",
+        "express": "3.x"
+    }
+  , "lib"           : "."
+  , "main"          : "./app.js"
+}
